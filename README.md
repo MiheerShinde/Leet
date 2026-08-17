@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MiheerShinde/Leet/tree/master/0011-container-with-most-water) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MiheerShinde/Leet/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MiheerShinde/Leet/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MiheerShinde/Leet/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MiheerShinde/Leet/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
