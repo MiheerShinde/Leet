@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MiheerShinde/Leet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MiheerShinde/Leet/tree/master/0015-3sum) |
+| [0724-find-pivot-index](https://github.com/MiheerShinde/Leet/tree/master/0724-find-pivot-index) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MiheerShinde/Leet/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MiheerShinde/Leet/tree/master/0015-3sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/MiheerShinde/Leet/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
