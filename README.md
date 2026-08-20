@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/MiheerShinde/Leet/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MiheerShinde/Leet/tree/master/0724-find-pivot-index) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MiheerShinde/Leet/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/MiheerShinde/Leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MiheerShinde/Leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/MiheerShinde/Leet/tree/master/0704-binary-search) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/MiheerShinde/Leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
